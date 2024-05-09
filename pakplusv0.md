@@ -1,0 +1,2 @@
+The NINT tried to make the Nintendo 64 more like one of their later consoles, the Nintendo Wii. However, the features were relegated to a more primitive menu, reminiscent of the Nintendo GameCube's. It could tell the time, track the weather, albeit how it does this is unknown, and mark dates. It also had Satellaview-esque features, being able to play demos off of a connection. The only demo that came out for the NINT was an early test of Super Mario 64, considering it never shipped worldwide. It was deemed too expensive to mass produce and shelved.
+
